@@ -12,23 +12,6 @@ This project fulfills the assignment requirements by:
 
 To build a functional prototype showcasing core voice AI components (ASR, NLP, TTS) for Kinyarwanda, suitable for demonstrating basic voice interaction in applications like robotics.
 
-## 📁 Folder Structure
-
-This project follows standard conventions, placing source code in `src/`:
-
-.
-├── audio_samples/ # 🎧 Your Kinyarwanda audio recordings (.wav/.mp3)
-│ ├── muraho.wav
-│ ├── witwa_nde.wav
-│ └── ... (at least 5 samples)
-├── src/ # 🐍 Source code directory
-│ └── app.py # Main application script
-├── .gitignore # (Optional) Files to ignore for Git
-├── LICENSE # (Optional) License file
-├── README.md # 📄 This explanation file
-├── requirements.txt # 📦 Python package dependencies
-└── venv/ # (Optional) Python virtual environment folder
-
 ## ✨ How It Works: Code Breakdown
 
 The `src/app.py` script orchestrates the entire process:
