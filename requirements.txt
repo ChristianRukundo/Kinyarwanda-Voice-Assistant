@@ -1,0 +1,8 @@
+transformers
+torch # Or tensorflow if you prefer and the model supports it
+gTTS
+gradio
+datasets # Often needed by transformers pipelines for audio processing
+soundfile # Often needed for loading audio files
+torchaudio
+shuggingface_hub
